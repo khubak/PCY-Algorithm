@@ -22,6 +22,7 @@ A = int((velicinaBrPredmeta * (velicinaBrPredmeta - 1)) / 2)
 
 indeksi = []
 j = 0
+
 for kosara in input_file[3:]:
     indeksi.append([])
     for i in kosara:
