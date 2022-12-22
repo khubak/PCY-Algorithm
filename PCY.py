@@ -31,7 +31,6 @@ for kosara in input_file[3:]:
     j += 1
 
 for kosara in indeksi:
-
     for i, j in combinations(kosara, 2):
         pretinci[((i * velicinaBrPredmeta) + j) % brPretinaca] += 1
 
