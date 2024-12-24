@@ -1,2 +1,2 @@
 # PCY-Algorithm
-Lab assignment created as a part of Big Data Analysis University Course
+Lab assignment created as a part of Big Data Analysis Grad University Course
